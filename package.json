@@ -1,23 +1,23 @@
 {
-  "name": "auth-study",
-  "version": "1.0.0",
-  "description": "Project that aims in authentication studies in Nodejs environment",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yovanycunha/auth-study.git"
-  },
-  "keywords": [
-    "Auth",
-    "Nodejs"
-  ],
-  "author": "Yovany Cunha",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/yovanycunha/auth-study/issues"
-  },
-  "homepage": "https://github.com/yovanycunha/auth-study#readme"
+    "name": "auth-study",
+    "version": "1.0.0",
+    "description": "Project that aims in authentication studies in Nodejs environment",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yovanycunha/auth-study.git"
+    },
+    "keywords": [
+        "Auth",
+        "Nodejs"
+    ],
+    "author": "Yovany Cunha",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yovanycunha/auth-study/issues"
+    },
+    "homepage": "https://github.com/yovanycunha/auth-study#readme"
 }
